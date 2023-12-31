@@ -1,13 +1,22 @@
 # Hi there, I'm Aung Thet Khaing <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ## I'm a Computer Science Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play watch horror movie.
+
+- 🌱 I’m currently Working on Front End Development (React and Next)
+  
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Node & Express JS
+
+- 💬 Ask me about **Reactjs & Nextjs**
+
+- 📫 How to reach me **aungtkhaing.dev@gmail.com**
+
+- 📄 Know about my experiences <a href="https://resume.io/r/A8MBHiUTU" target="blank">Resume</a>
+
 
 ---
 
