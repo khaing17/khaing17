@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aungtkhaing.dev@gmail.com**
 
-- 📄 Know about my experiences <a href="https://resume.io/r/A8MBHiUTU" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://resume.io/r/A8MBHiUTU" target="_blank">Resume</a>
 
 
 ---
