@@ -18,15 +18,44 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gy6ib80lwfh5rfgkc8csuqmw0&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121111&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
 
-### Contact with me 📝
+<ul>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+<li>
+<a href="www.linkedin.com/in/aung-thet-khaing-690a24251" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  aungthetkhaing-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
-<br />
+<br>
+
+<li>
+<a href="https://www.facebook.com/aung.t.khaing.017/" target="_blank">
+<img src="https://img.shields.io/badge/facebook:  aungthetkhaing-%2300acee.svg?color=316FF6&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:aungtkhaing.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  aungthetkhaing-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height=50>
+<br>
+<br>
+<br>
+
+<div align='center'>
 
 ---
 
