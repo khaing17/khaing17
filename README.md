@@ -106,7 +106,11 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaing17&theme=react&line_height=40&hide=css"/>
     </a>
-</div
+  </div>
+  <br/>
+  <div align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaing17&theme=dark" alt="khaing17" />
+  </div>
 
 <br/>
 
