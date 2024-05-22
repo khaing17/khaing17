@@ -1,21 +1,27 @@
 # Hi there, I'm Aung Thet Khaing <img width="30px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
+I am a versatilist and easily adapt to different techstack (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-## I'm a Computer Science Student  
-
-
-- 🌱 I’m currently Working on Front End Development (React and Next)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-- 🤝 I’m available for freelancing.
+### 🧐 More About Me:
 
-- 🌱 I’m currently learning Node & Express JS
+- 🔭 &nbsp; I’m currently working on **code2LAB**
+- 🌱 &nbsp; I’m currently learning Node JS with express and nest; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khaing17?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, especially MERN stack I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://resume.io/r/A8MBHiUTU)
 
-- 💬 Ask me about **Reactjs & Nextjs**
+<br>
 
-- 📫 How to reach me **aungtkhaing.dev@gmail.com**
+<br>
 
-- 📄 Know about my experiences <a href="https://resume.io/r/A8MBHiUTU" target="_blank">Resume</a>
+<br>
+
+<br>
+
+<br>
 
 
 ---
@@ -26,10 +32,14 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gy6ib80lwfh5rfgkc8csuqmw0&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121111&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<br>
+
 ---
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
+
 <div align='left'>
 
 <ul>
@@ -98,18 +108,25 @@
 
 <br/>
 
-<h2 align="center"> Github Statistics 📈 </h2>
-<a href="">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaing17&show_icons=true&theme=radical" alt="Aung Thet Khaing Stats">
-</a>
-<a href="">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaing17&theme=react&line_height=40&hide=css"/>
-</a>
-<br/>
-<div align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaing17&theme=dark" alt="khaing17" />
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=khaing17&theme=react&border=61dafb&hide_border=true" alt="khaing17" />
+    </a>
+    <a href="https://github.com/khaing17/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=khaing17&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/khaing17/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaing17&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+</p>
 
-<br/>
+<hr>
 
----
