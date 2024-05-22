@@ -98,20 +98,17 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaing17&count_private=true&show_icons=true&line_height=40&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Aung Thet Khaing Stats">
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaing17&theme=react&line_height=40&hide=css"/>
-    </a>
-  </div>
-  <br/>
-  <div align="center">
+<h2 align="center"> Github Statistics 📈 </h2>
+<a href="">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaing17&show_icons=true&theme=radical" alt="Aung Thet Khaing Stats">
+</a>
+<a href="">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaing17&theme=react&line_height=40&hide=css"/>
+</a>
+<br/>
+<div align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaing17&theme=dark" alt="khaing17" />
-  </div>
+</div>
 
 <br/>
 
