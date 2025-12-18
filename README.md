@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different techstack (Full Stack Web Devel
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/khaing17?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, especially MERN stack I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aung-thet-khaing-690a24251/)
-- 📝 &nbsp; Checkout my [resume](https://resume.io/r/A8MBHiUTU)
+- 📝 &nbsp; Checkout my [resume](https://flowcv.com/resume/45j095j4rp)
 
 <br>
 
