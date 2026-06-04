@@ -29,8 +29,7 @@ I am a versatilist and easily adapt to different techstack (Full Stack Web Devel
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gy6ib80lwfh5rfgkc8csuqmw0)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gy6ib80lwfh5rfgkc8csuqmw0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
